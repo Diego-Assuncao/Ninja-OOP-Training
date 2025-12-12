@@ -14,10 +14,10 @@ public class NinjaBasico implements Ninja{
 
     @Override
     public void mostrarInformacoes() {
-        System.out.println("=====Informações do NinjaOOPTraining.Ninja=====");
+        System.out.println("=====Informações do Ninja=====");
         System.out.println("Nome: "+nome);
         System.out.println("Idade: "+idade);
-        System.out.println("Habilidade do NinjaOOPTraining.Ninja: "+habilidade);
+        System.out.println("Habilidade do Ninja: "+habilidade);
     }
 
     @Override
